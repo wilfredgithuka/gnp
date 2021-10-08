@@ -1,5 +1,14 @@
 ## About The Project
 
+## Vehicle Mileage: 145,000 km
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://wieck-nissanao-production.s3.amazonaws.com/photos/b8070f5124f0295c1eee3efee804ca4e74d679ab/preview-928x522.jpg" alt="Logo" width="80" height="80">
+  </a>
+
 ###  GNP - The Githuka Noteonomy Project 2021
 
 The Githuka Noteonomy Project is a longterm learning process about the interesting word of autonomous vehicle systems.
