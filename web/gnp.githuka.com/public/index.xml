@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home title on Githuka Noteonomy Project [gnp]</title>
+    <link>https://gnp.githuka.com/</link>
+    <description>Recent content in Home title on Githuka Noteonomy Project [gnp]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://gnp.githuka.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 2-1: Connected Devices</title>
+      <link>https://gnp.githuka.com/chapter2/1/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>153101-20220513 Road Test - New Build</title>
+      <link>https://gnp.githuka.com/logbook/153101_20220513_road_test/</link>
+      <pubDate>Fri, 13 May 2022 09:13:13 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/logbook/153101_20220513_road_test/</guid>
+      <description>Updated build inverted to show all the individual systems. From the Left to Right: Drive Computer, Power Supply, CAN Bus Unit and Network Support Unit.
+The system now in its actual place, away from luggage and other objects. The visible zip ties is something that needs work.
+This log is a quick update to some upgrade work that I have been working on this week. I have been having challenges of devices falling or getting disconnected so I decided to use zip ties and hot glue to hold everything in place.</description>
+    </item>
+    
+    <item>
+      <title>152394_20220506 Nairobi Expressway OBU</title>
+      <link>https://gnp.githuka.com/logbook/152394_20220506_obu/</link>
+      <pubDate>Sat, 07 May 2022 09:13:13 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/logbook/152394_20220506_obu/</guid>
+      <description>The Nairobi Expressway  Distance: 27.1km Start: Mlolongo End: James Gichuru Public Private Partnership Model Contractor: China Road &amp;amp; Bridge Corporation - CRBC  Tolling Concept  Pay toll on exit Cash MTC - Manual Toll Collection ETC - Electronic Toll Collection  On Board Unit - OBU  Manufacturer - Genvict Genvict is the leading end-to-end solution provider for mobility intelligence, with core business in electronic toll collection. Dual channel monolithic OBU v.</description>
+    </item>
+    
+    <item>
+      <title>About the gnp project</title>
+      <link>https://gnp.githuka.com/getting-started/about_gnp/</link>
+      <pubDate>Fri, 17 Dec 2021 19:01:11 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/getting-started/about_gnp/</guid>
+      <description>[gnp] The Githuka Noteonomy Project is a longterm learning process about the interesting word of connected and autonomous vehicle systems. In this project we shall using a real vehicle - Nissan Note E11 2008, adding devices in it towards converting it into a connected car and attain some level of autonomy in the future. The Nissan Note E11 2008 Model is a 5 door mini MPV hatchback manufactured by Nissan Japan.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2-2: Nissan Key Fob</title>
+      <link>https://gnp.githuka.com/chapter2/2/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://gnp.githuka.com/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/hello_world/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://gnp.githuka.com/posts/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/posts/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Connected Vehicles</title>
+      <link>https://gnp.githuka.com/getting-started/connected_vehicle/</link>
+      <pubDate>Sun, 16 Jan 2022 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/getting-started/connected_vehicle/</guid>
+      <description>Connected vehicles are cars which can be able to bi-directionally share data with their surroundings. The cars can be able to talk with various systems around them.
+Connetivity Modes  V2I &amp;ldquo;Vehicle to Infrastructure&amp;rdquo;: The technology captures data generated by the vehicle and provides information about the infrastructure to the driver. The V2I technology communicates information about safety, mobility or environment-related conditions. V2V &amp;ldquo;Vehicle to Vehicle&amp;rdquo;: The technology communicates information about speed and position of surrounding vehicles through a wireless exchange of information.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2-3: Vehicle 3G</title>
+      <link>https://gnp.githuka.com/chapter2/3/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Vehicles</title>
+      <link>https://gnp.githuka.com/getting-started/autonomous/</link>
+      <pubDate>Sat, 26 Oct 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/getting-started/autonomous/</guid>
+      <description>A self-driving car, also known as an autonomous vehicle (AV), driverless car, or robotic car (robo-car),is a car incorporating vehicular automation, that is, a ground vehicle that is capable of sensing its environment and moving safely with little or no human input.The future of this technology may have an impact on multiple industries and other circumstances.
+Self-driving cars combine a variety of sensors to perceive their surroundings, such as thermographic cameras, radar, lidar, sonar, GPS, odometry and inertial measurement units.</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://gnp.githuka.com/getting-started/ppts/</link>
+      <pubDate>Wed, 13 Mar 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/getting-started/ppts/</guid>
+      <description>PyCon 2017 Youtube Video
+The first ever PyCon Conference in Kenya was held USIU-Africa from September 28-29 2017. The conference brought together software developers techies, business pepple startups, learning institutions and others that have either an interest or a stake in the open source python programming language, and related technologies in its ecosystem.
+The presentation can be downloaded here.
+AIKenya Show And Tell 2019 AI Kenya is a fast growing community aimed at bringing together like-minded people to discuss, build and grow the Artificial Intelligence and Data Science ecosystem in Kenya and East Africa.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2-4: Vehicle Wifi Setup</title>
+      <link>https://gnp.githuka.com/chapter2/4/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2-0 Lidar Introduction</title>
+      <link>https://gnp.githuka.com/chapter2/5/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2-6: Android Head Units</title>
+      <link>https://gnp.githuka.com/chapter2/6/</link>
+      <pubDate>Sat, 12 Jun 2021 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter2/6/</guid>
+      <description>The local car accessory market has been an upsurge in more affordbale Android car head units which varry from Ksh.5000 upto Ksh.20,000. These devices offer the same Android experience as a mobile device hence user experience really needs no re-learning. The brand names varry as well and some really have no specific brands. Online stores locally will mark them as Generic 2DIN 9.0” Android 8.x Car Stereo Radio MP5 Player. The MP5 mention is just as amusing to say the least.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1-1 Safety</title>
+      <link>https://gnp.githuka.com/chapter1/safety/</link>
+      <pubDate>Mon, 21 Jun 2021 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/safety/</guid>
+      <description>Safety on the road is an individual&amp;rsquo;s responsibility.
+The work we are doing here is performed by experienced drivers with extensive driving experience.
+Do not try to attempt to replicate what you see here on your car. It is dangereous and may lead to injury loss of life to yourself and/or other road users.
+The vehicle we use has been modified to perform what you see. Such modifications will void your warranty and isurance.</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://gnp.githuka.com/archives/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/archives/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://gnp.githuka.com/blog/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/blog/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://gnp.githuka.com/entry/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/entry/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://gnp.githuka.com/archives/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/archives/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://gnp.githuka.com/blog/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/blog/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://gnp.githuka.com/entry/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/entry/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1-2: 12V Power System</title>
+      <link>https://gnp.githuka.com/chapter1/12v/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/12v/</guid>
+      <description>The vehicle&amp;rsquo;s 12V power system is the primary source of electromotive force that is requred to operate most loads in the vehicle. Since the loads varry in resistance, the current drawn is also a variable and changes depending on the load turned on. The source of this energy is the 12V Lead Acid Battery and the alternator. These work in charging and discharging states.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1-3: Battery</title>
+      <link>https://gnp.githuka.com/chapter1/battery/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/battery/</guid>
+      <description>The car battery is a flooded lead acid battery. It consists of a Lead -ve electrode and a Lead Dioxide +ve electrode dipped in an electrolyte made of dilute sulphiric acid. The plates separator is made of a glass fibre which is essentially Silicon Dioxide. The outercase is made of ABS plastic. On most batteries the terminals are made of silver-coated copper.
+Voltage Stats  Capacity: 12V, 40-46Ah Starting Current: 380-490A Fully Charged: 12.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-1: CAN Bus</title>
+      <link>https://gnp.githuka.com/chapter3/1/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-3: CarputerOS</title>
+      <link>https://gnp.githuka.com/chapter3/3/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-4: Car Vision</title>
+      <link>https://gnp.githuka.com/chapter3/4/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-5: Sensor Fusion</title>
+      <link>https://gnp.githuka.com/chapter3/5/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-6: Localisation</title>
+      <link>https://gnp.githuka.com/chapter3/6/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-7: Vehicle Control</title>
+      <link>https://gnp.githuka.com/chapter3/7/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/7/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-8: Path Planning</title>
+      <link>https://gnp.githuka.com/chapter3/8/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/8/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3-9: VANETs</title>
+      <link>https://gnp.githuka.com/chapter3/9/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter3/9/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://gnp.githuka.com/archives/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/archives/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://gnp.githuka.com/blog/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/blog/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://gnp.githuka.com/entry/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/entry/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>legal</title>
+      <link>https://gnp.githuka.com/legal/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/legal/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

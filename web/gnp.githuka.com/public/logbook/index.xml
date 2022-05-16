@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Logbook on Githuka Noteonomy Project [gnp]</title>
+    <link>https://gnp.githuka.com/logbook/</link>
+    <description>Recent content in Project Logbook on Githuka Noteonomy Project [gnp]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2018 19:00:15 +0000</lastBuildDate><atom:link href="https://gnp.githuka.com/logbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>153101-20220513 Road Test - New Build</title>
+      <link>https://gnp.githuka.com/logbook/153101_20220513_road_test/</link>
+      <pubDate>Fri, 13 May 2022 09:13:13 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/logbook/153101_20220513_road_test/</guid>
+      <description>Updated build inverted to show all the individual systems. From the Left to Right: Drive Computer, Power Supply, CAN Bus Unit and Network Support Unit.
+The system now in its actual place, away from luggage and other objects. The visible zip ties is something that needs work.
+This log is a quick update to some upgrade work that I have been working on this week. I have been having challenges of devices falling or getting disconnected so I decided to use zip ties and hot glue to hold everything in place.</description>
+    </item>
+    
+    <item>
+      <title>152394_20220506 Nairobi Expressway OBU</title>
+      <link>https://gnp.githuka.com/logbook/152394_20220506_obu/</link>
+      <pubDate>Sat, 07 May 2022 09:13:13 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/logbook/152394_20220506_obu/</guid>
+      <description>The Nairobi Expressway  Distance: 27.1km Start: Mlolongo End: James Gichuru Public Private Partnership Model Contractor: China Road &amp;amp; Bridge Corporation - CRBC  Tolling Concept  Pay toll on exit Cash MTC - Manual Toll Collection ETC - Electronic Toll Collection  On Board Unit - OBU  Manufacturer - Genvict Genvict is the leading end-to-end solution provider for mobility intelligence, with core business in electronic toll collection. Dual channel monolithic OBU v.</description>
+    </item>
+    
+  </channel>
+</rss>

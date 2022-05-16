@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 1 - Power on Githuka Noteonomy Project [gnp]</title>
+    <link>https://gnp.githuka.com/chapter1/</link>
+    <description>Recent content in Chapter 1 - Power on Githuka Noteonomy Project [gnp]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2019 15:26:15 +0000</lastBuildDate><atom:link href="https://gnp.githuka.com/chapter1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1-1 Safety</title>
+      <link>https://gnp.githuka.com/chapter1/safety/</link>
+      <pubDate>Mon, 21 Jun 2021 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/safety/</guid>
+      <description>Safety on the road is an individual&amp;rsquo;s responsibility.
+The work we are doing here is performed by experienced drivers with extensive driving experience.
+Do not try to attempt to replicate what you see here on your car. It is dangereous and may lead to injury loss of life to yourself and/or other road users.
+The vehicle we use has been modified to perform what you see. Such modifications will void your warranty and isurance.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1-2: 12V Power System</title>
+      <link>https://gnp.githuka.com/chapter1/12v/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/12v/</guid>
+      <description>The vehicle&amp;rsquo;s 12V power system is the primary source of electromotive force that is requred to operate most loads in the vehicle. Since the loads varry in resistance, the current drawn is also a variable and changes depending on the load turned on. The source of this energy is the 12V Lead Acid Battery and the alternator. These work in charging and discharging states.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1-3: Battery</title>
+      <link>https://gnp.githuka.com/chapter1/battery/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://gnp.githuka.com/chapter1/battery/</guid>
+      <description>The car battery is a flooded lead acid battery. It consists of a Lead -ve electrode and a Lead Dioxide +ve electrode dipped in an electrolyte made of dilute sulphiric acid. The plates separator is made of a glass fibre which is essentially Silicon Dioxide. The outercase is made of ABS plastic. On most batteries the terminals are made of silver-coated copper.
+Voltage Stats  Capacity: 12V, 40-46Ah Starting Current: 380-490A Fully Charged: 12.</description>
+    </item>
+    
+  </channel>
+</rss>
