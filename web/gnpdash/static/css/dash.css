@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+.speed{
+  margin-top: 30px;
+  font-size: 90px;
+}
+
+.speed-unit{
+  font-size: 20px;
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.divider{
+  background-color: darkgray;
+  margin: 25px;
+  width: 90%;
+  height: 1px;
+}
+
+.steering{
+  width: 40px;
+}
+
+.gearbox{
+  display: inline;
+  font-size: 20px;
+}
+
+.time{
+  font-size: 20px
+}
+
+.lane-detection{
+  padding-top: 150px
+}
+
+.dash-elements{
+  background-color: white;
+  margin: 20px;
+  padding-bottom: 100px;
+  border-radius: 20px;
+
+}
